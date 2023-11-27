@@ -1,1 +1,1 @@
-Used ChatGPT for help with creating graphs for climate_starter and then for the start and start-end paths of my API. Besides that used previous codes from class to figure it out. 
+Ignore the jupyter notebook file (app.ipynb) I created this for testing and more concise coding before copying it over to the py file. I used ChatGPT for help with creating graphs for climate_starter and then for the start and start-end paths of my API. Besides that used previous codes from class to figure it out. 
