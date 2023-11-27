@@ -1,0 +1,1 @@
+Used ChatGPT for help with creating graphs for climate_starter and then for the start and start-end paths of my API. Besides that used previous codes from class to figure it out. 
